@@ -1,4 +1,4 @@
-### EX7 Implementation of Link Analysis using HITS Algorithm
+[### EX7 Implementation of Link Analysis using HITS Algorithm
 ### DATE: 
 ### AIM: To implement Link Analysis using HITS Algorithm in Python.
 ### Description:
@@ -117,3 +117,4 @@ plt.show()
 
 ### Result:
 Thus, Link Analysis using HITS Algorithm in Python is successfully implemented.
+](https://github.com/sakamalesh/WDM_EXP7/blob/main/README.md)
