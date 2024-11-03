@@ -1,5 +1,7 @@
-[### EX7 Implementation of Link Analysis using HITS Algorithm
-### DATE: 
+### EX7 Implementation of Link Analysis using HITS Algorithm
+## Name:Kamalesh S
+## Reg_No:21223040083
+### DATE:19/10/24
 ### AIM: To implement Link Analysis using HITS Algorithm in Python.
 ### Description:
 <div align = "justify">
